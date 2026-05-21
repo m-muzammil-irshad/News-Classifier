@@ -114,10 +114,8 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 
 ### 📬 Contact
 
- [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:cornerofcodes00@gmail.com)
+ [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muzammilirshad261@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-muzammil-irshad-05b863333)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white)](https://www.tiktok.com/@cornerofcodes)
-
 ---
 
 <p align="center"><b>Made with ❤️ by M Muzammil Irshad</b></p>
